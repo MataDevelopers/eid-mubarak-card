@@ -477,7 +477,7 @@ body {
 /* ─── CARD TITLE ─────────────────────────────────────── */
 .card-title {
   font-family: 'Cinzel Decorative', serif;
-  font-size:large;
+  font-size:medium;
   font-weight: 700;
   background: linear-gradient(135deg, #fff 0%, #a8c8f0 45%, #4a90d9 80%, #fff 100%);
   background-size: 200% auto;
