@@ -477,7 +477,7 @@ body {
 /* ─── CARD TITLE ─────────────────────────────────────── */
 .card-title {
   font-family: 'Cinzel Decorative', serif;
-  font-size: clamp(1.2rem, 4vw, 2.1rem);
+  font-size:large;
   font-weight: 700;
   background: linear-gradient(135deg, #fff 0%, #a8c8f0 45%, #4a90d9 80%, #fff 100%);
   background-size: 200% auto;
@@ -641,7 +641,11 @@ body {
   gap: 12px;
   margin: 16px 0;
 }
-
+.social h4{
+    font-family: sans-serif;
+    justify-content: center;
+    font-weight: bold;
+}
 .soc {
   width: 38px;
   height: 38px;
